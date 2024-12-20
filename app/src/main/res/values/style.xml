@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavTextInactive">
+        <item name="android:textColor">@color/grey</item>
+    </style>
+
+    <style name="BottomNavTextActive">
+        <item name="android:textColor">@color/gold</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/gold</item>
+        <item name="colorPrimaryDark">@color/lightGold</item>
+        <item name="colorAccent">@color/grey</item>
+    </style>
+</resources>

@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">H&amp;I</string>
+    <string name="welcome">Welcome to H&amp;I </string>
+    <string name="homeTx">Timeless Beauty,Crafted for You</string>
+    <string name="seeall">See all</string>
+    <string name="shop">Shop Best Sellers</string>
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="cart">Cart</string>
+    <string name="favorite">Favorite</string>
+    <string name="acc">Account</string>
+    <string name="singReg">SIGN IN/REGISTER ></string>
+    <string name="slogan">L\'élégance au bout des doigts</string>
+    <string name="QA">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="LogQA">Don\'t have an account?</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="about">About Us</string>
+    <string name="who">💎 Who We Are? 💎</string>
+    <string name="whoTx">Founded in 2024, H&amp;I Jewelry focuses on crafting elegant, custom-made pieces that express feelings, memories, and beauty.</string>
+    <string name="mission">💎 Our Mission? 💎</string>
+    <string name="missionTx">Our mission is to bring affordable, personalized jewelry that tells a unique story for every customer.</string>
+    <string name="why">💎 Why H&amp;I? 💎</string>
+    <string name="whyTx">We ensure the finest quality with ethically sourced materials, crafted in-house by skilled designers. Your emotions are our inspiration.</string>
+    <string name="customers">What Our Customers Say</string>
+    <string name="customersTx">Iam and craftsmanship design impressed my necklace.of the truly unique with H&amp;I turned my idea into reality.</string>
+    <string name="checkout">Checkout</string>
+    <string name="color">Color : </string>
+    <string name="quantity">Quantity : </string>
+    <string name="like">You Might Also Like</string>
+    <string name="addCart">ADD TO CART</string>
+    <string name="start">LET\'S GET STARTED</string>
+    <string name="pass">Forget Password ?</string>
+    <string name="empty">Is empty here :-(</string>
+    <string name="wallet">Wallet</string>
+    <string name="gift">Gift Card</string>
+    <string name="shipping">Shipped</string>
+    <string name="rev">Review</string>
+    <string name="ret">Return</string>
+    <string name="his">History</string>
+    <string name="with">Withdraw</string>
+    <string name="tp">Total Price :</string>
+    <string name="cancel">Cancel</string>
+    <string name="ser">Search</string>
+    <string name="setting">Setting</string>
+    <string name="location">Location</string>
+    <string name="lang">Language</string>
+    <string name="payment">Payment Method</string>
+    <string name="logout">Log Out</string>
+    <string name="search">Search</string>
+    <string-array name="moroccan_cities">
+        <item>Safi</item>
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Marrakech</item>
+        <item>Agadir</item>
+        <item>Kenitra</item>
+        <item>Essaouira</item>
+    </string-array>
+    <string name="paypal">Pay With PayPal</string>
+    <string name="paypaltx">When you choose to pay for an order via PayPal, you will be redirected</string>
+    <string name="paycart">Pay With Credit/Debit Card</string>
+    <string name="paycarttx">When you pay with a credit or debit card, you need the name printed</string>
+</resources>

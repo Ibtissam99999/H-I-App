@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">H&amp;I</string>
+    <string name="welcome">Bienvenue à H&amp;I</string>
+    <string name="homeTx">Beauté intemporelle, conçue pour vous</string>
+    <string name="seeall">Voir tout</string>
+    <string name="shop">Achetez les meilleures ventes</string>
+    <string name="home">Accueil</string>
+    <string name="category">Catégorie</string>
+    <string name="cart">Panier</string>
+    <string name="favorite">Favoris</string>
+    <string name="acc">Compte</string>
+    <string name="singReg">SE CONNECTER/S\'INSCRIRE ></string>
+    <string name="slogan">L\'élégance au bout des doigts</string>
+    <string name="QA">Vous avez déjà un compte?</string>
+    <string name="login">Se connecter</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="LogQA">Vous n\'avez pas de compte?</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Se connecter ou s\'inscrire</string>
+    <string name="action_sign_in_short">Se connecter</string>
+    <string name="invalid_username">Nom d\'utilisateur invalide</string>
+    <string name="invalid_password">Le mot de passe doit contenir plus de 5 caractères</string>
+    <string name="login_failed">"Connexion échouée"</string>
+    <string name="about">À propos de nous</string>
+    <string name="who">💎 Qui sommes-nous ? 💎</string>
+    <string name="whoTx">Fondée en 2024, H&amp;I Jewelry se concentre sur la création de pièces élégantes et personnalisées qui expriment des sentiments, des souvenirs et la beauté.</string>
+    <string name="mission">💎 Notre mission ? 💎</string>
+    <string name="missionTx">Notre mission est de proposer des bijoux personnalisés abordables qui racontent une histoire unique pour chaque client.</string>
+    <string name="why">💎 Pourquoi H&amp;I ? 💎</string>
+    <string name="whyTx">Nous garantissons la meilleure qualité avec des matériaux sourcés de manière éthique, fabriqués en interne par des designers qualifiés. Vos émotions sont notre inspiration.</string>
+    <string name="customers">Ce que disent nos clients</string>
+    <string name="customersTx">Je suis impressionné par la conception et l\'artisanat de mon collier unique. H&amp;I a transformé mon idée en réalité.</string>
+    <string name="checkout">Commander</string>
+    <string name="color">Couleur : </string>
+    <string name="quantity">Quantité : </string>
+    <string name="like">Vous pourriez aussi aimer</string>
+    <string name="addCart">AJOUTER AU PANIER</string>
+    <string name="start">COMMENÇONS</string>
+    <string name="pass">Mot de passe oublié ?</string>
+    <string name="empty">C\'est vide ici :-(</string>
+    <string name="wallet">Portefeuille</string>
+    <string name="gift">Carte cadeau</string>
+    <string name="shipping">Expédié</string>
+    <string name="rev">Avis</string>
+    <string name="ret">Retour</string>
+    <string name="his">Historique</string>
+    <string name="with">Retirer</string>
+    <string name="tp">Prix total :</string>
+    <string name="cancel">Annuler</string>
+    <string name="ser">Recherche</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_slideshow">Diaporama</string>
+    <string name="setting">Paramètre</string>
+    <string name="location">Emplacement</string>
+    <string name="lang">Langue</string>
+    <string name="payment">Mode de paiement</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="search">Rechercher</string>
+    <string-array name="moroccan_cities">
+        <item>Safi</item>
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Marrakech</item>
+        <item>Agadir</item>
+        <item>Kénitra</item>
+        <item>Essaouira</item>
+    </string-array>
+    <string name="paypal">Payer avec PayPal</string>
+    <string name="paypaltx">Lorsque vous choisissez de payer une commande via PayPal, vous serez redirigé</string>
+    <string name="paycart">Payer avec carte de crédit/débit</string>
+    <string name="paycarttx">Lorsque vous payez avec une carte de crédit ou de débit, vous devez utiliser le nom imprimé</string>
+</resources>
